@@ -28,6 +28,28 @@ else:
     print("Invalid input. Please enter a number.")
 
 
+#WAP to find input number is prime or composite
 
+num = input("Enter number: ")
+if num <= 1:
+    pass
+
+
+# num = float(input("Enter number: "))
+
+# if num <= 1:
+#     print("Number is neither prime nor composite.")
+# elif num == 2:
+#     print("Number is prime.")
+# else:
+#     is_prime = True
+#     for i in range(2, int(num ** 0.5) + 1):
+#         if num % i == 0:
+#             is_prime = False
+#             break
+#     if is_prime:
+#         print("Number is prime.")
+#     else:
+#         print("Number is composite.")
 
 
