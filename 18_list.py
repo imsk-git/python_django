@@ -19,8 +19,10 @@ print(month_list) #['September', ('October', 'November'), 'December', '4587', 14
 
 
 month_list.pop(0) #removes according to position in list
+month_list.pop() #removes last item from the list
 
 month_list.remove("December") #removes data from list
+month_list.clear() #empty the list
 
 print(len(month_list)) #gives length of list  #ans is 4
 
