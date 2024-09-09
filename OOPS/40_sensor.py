@@ -10,5 +10,5 @@ class Tap:
 
 tap_obj = Tap()
 while True:
-    tap_obj.sensor(sensor = False)
+    tap_obj.sensor(sensor = True)
     break
