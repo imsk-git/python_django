@@ -101,7 +101,7 @@
     <link rel="alternate" hreflang="x-default" href="https://www.shopify.com/stock-photos" />
 
   <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="RR08-0M9LLZoGoNq7ixwl_CRDDXuWj5AKLQfXiLuKzgzvbSMV6x1QGwlksaz91twiArJzRPQ3yReoydKJdF4eg" />
+<meta name="csrf-token" content="0c1KXqVelmGADXoN4vSHye_co39vduIgCRMzyhRE4RJQPGE0UJWF21NAeCB9AOorL0tZtWB9SZWbFC_y-hbXog" />
   <script type="text/javascript">
   (function () {
     function getCookie(cookieName) {
@@ -493,7 +493,7 @@
 
 <div id="PageContainer">
   <main role="main" id="Main">
-    <section class="section page-header--hero page-header--hero-photos " style="background-image: url(https://burst.shopifycdn.com/photos/train-travels-across-the-frame-with-tracks-and-wires.jpg?width=1442&amp;format=pjpg&amp;exif=0&amp;iptc=0);">
+    <section class="section page-header--hero page-header--hero-photos " style="background-image: url(https://burst.shopifycdn.com/photos/centered-car-driving-through-forest.jpg?width=1442&amp;format=pjpg&amp;exif=0&amp;iptc=0);">
   <div class="grid">
     <div class="grid__item grid__item--desktop-up-9">
       <div class="page-header__hero-heading gutter-bottom">
@@ -503,7 +503,7 @@
 </div>    <div class="grid__item grid__item--desktop-up-7">
       
 <form class="gutter-bottom typeahead__container marketing-form--inline search-form js-search-form search-form--full-width" action="/stock-photos/photos/search" accept-charset="UTF-8" method="get">
-  <label class="marketing-input-wrapper gutter-bottom--reset"><span class="marketing-label marketing-label--hidden visuallyhidden">Search</span><input aria-describedby="MessageId_f33c" placeholder="Search free photos" class="marketing-input search-form__input js-typeahead  search-form__input--jumbo" name="q" autocomplete="off" type="search" id="search_search" /></label><span class="marketing-form__messages" id="MessageId_f33c"></span>
+  <label class="marketing-input-wrapper gutter-bottom--reset"><span class="marketing-label marketing-label--hidden visuallyhidden">Search</span><input aria-describedby="MessageId_61bb" placeholder="Search free photos" class="marketing-input search-form__input js-typeahead  search-form__input--jumbo" name="q" autocomplete="off" type="search" id="search_search" /></label><span class="marketing-form__messages" id="MessageId_61bb"></span>
 
   <button name="button" type="submit" class="search-button search-form__button search-form__button--jumbo">
     <svg class="icon icon--fill-slate search-button__icon" aria-labelledby="icon-search-thin-2-title" role="img"><title id="icon-search-thin-2-title">Search</title> <use xlink:href="#search-thin" /> </svg>
@@ -519,7 +519,7 @@
             <li class="page-header__popular-categories-name"><a class="body-link" href="/stock-photos/business">Business</a></li>
         </ul>
       <p class="page-header--hero__annotation">
-          Featured photo by Tomáš Hustoles &vert; <a href="/stock-photos/photos/train-travels-across-the-frame-with-tracks-and-wires">View image</a>
+          Featured photo by Matthew Henry &vert; <a href="/stock-photos/photos/centered-car-driving-through-forest">View image</a>
       </p>
 </div></div></section><section class="section section--border">
   <div class="grid grid--vertically-centered">
@@ -694,7 +694,7 @@
   <div class="grid">
     <div class="grid__item">
       <div class="subscribe--product-container">
-        <div class="subscribe subscribe--inline js-subscribe-with-tracker "><div class="subscribe__content-wrapper"><div class="subscribe__content"><p class="subscribe__heading heading--4 color-white subscribe--product__heading">Get first access to free photos and other Burst content. Unsubscribe anytime.</p><form data-mailing-list="email_update" class="marketing-form marketing-form--inline  subscribe__form" novalidate="novalidate" action="https://marketing.preferences.shopify.com/public/subscriptions/8048ea8c-f1ff-4f65-a3f3-72a8fcf2585d.json" accept-charset="UTF-8" method="post"><div class="marketing-input-wrapper marketing-input-button-pair"><div class="marketing-input-button-pair__field-wrapper"><label class="marketing-label marketing-label--in-field marketing-label--floating marketing-input-button-pair__label" for="SubscribeEmail-737a">Email address</label><input autocomplete="email" placeholder="Your email address" aria-describedby="MessageId_14b5" name="email" id="SubscribeEmail-737a" class="marketing-input-button-pair__input marketing-input marketing-input--floating  subscribe__email" type="email" /><button class="marketing-button marketing-form__button marketing-input-button-pair__button  subscribe__submit" name="button" type="submit">Submit</button></div></div><span class="marketing-form__messages" id="MessageId_14b5"></span>
+        <div class="subscribe subscribe--inline js-subscribe-with-tracker "><div class="subscribe__content-wrapper"><div class="subscribe__content"><p class="subscribe__heading heading--4 color-white subscribe--product__heading">Get first access to free photos and other Burst content. Unsubscribe anytime.</p><form data-mailing-list="email_update" class="marketing-form marketing-form--inline  subscribe__form" novalidate="novalidate" action="https://marketing.preferences.shopify.com/public/subscriptions/8048ea8c-f1ff-4f65-a3f3-72a8fcf2585d.json" accept-charset="UTF-8" method="post"><div class="marketing-input-wrapper marketing-input-button-pair"><div class="marketing-input-button-pair__field-wrapper"><label class="marketing-label marketing-label--in-field marketing-label--floating marketing-input-button-pair__label" for="SubscribeEmail-ef5d">Email address</label><input autocomplete="email" placeholder="Your email address" aria-describedby="MessageId_caa5" name="email" id="SubscribeEmail-ef5d" class="marketing-input-button-pair__input marketing-input marketing-input--floating  subscribe__email" type="email" /><button class="marketing-button marketing-form__button marketing-input-button-pair__button  subscribe__submit" name="button" type="submit">Submit</button></div></div><span class="marketing-form__messages" id="MessageId_caa5"></span>
       <input type="hidden" name="update_optin" value="true" autocomplete="off" />
     
     <input type="hidden" name="signup_page" class="js-subscribe--signup-page" autocomplete="off" />
@@ -1299,45 +1299,45 @@
 </div>
         <div class="grid__item grid__item--desktop-up-third gutter-bottom">
           
-<a class="photo-card tile--business" href="/stock-photos/business-ideas/sell-jewelry-online">
+<a class="photo-card tile--business" href="/stock-photos/business-ideas/sell-art-supplies-online">
   <div class="tile__image-wrapper">
     <div class="photo-card__image photo-card__background tile--business__background tile__image">
-      <img sizes="100vw" data-srcset="https://burst.shopifycdn.com/photos/double-pearl-earrings.jpg?width=373&amp;format=pjpg&amp;exif=0&amp;iptc=0 1x, https://burst.shopifycdn.com/photos/double-pearl-earrings.jpg?width=746&amp;format=pjpg&amp;exif=0&amp;iptc=0 2x" src="https://burst.shopifycdn.com/photos/double-pearl-earrings.jpg?width=1000&amp;format=pjpg&amp;exif=0&amp;iptc=0" class="photo-card__photo lazyload" alt="Sell jewelry online">
+      <img sizes="100vw" data-srcset="https://burst.shopifycdn.com/photos/a-hand-holds-four-coloured-markers.jpg?width=373&amp;format=pjpg&amp;exif=0&amp;iptc=0 1x, https://burst.shopifycdn.com/photos/a-hand-holds-four-coloured-markers.jpg?width=746&amp;format=pjpg&amp;exif=0&amp;iptc=0 2x" src="https://burst.shopifycdn.com/photos/a-hand-holds-four-coloured-markers.jpg?width=1000&amp;format=pjpg&amp;exif=0&amp;iptc=0" class="photo-card__photo lazyload" alt="Sell art supplies online">
     </div>
   </div>
 
   <div class="tile__banner">
-    <h3 class="tile--business__heading gutter-bottom--reset">Sell jewelry online</h3>
+    <h3 class="tile--business__heading gutter-bottom--reset">Sell art supplies online</h3>
 
     <svg class="icon icon--size-small tile__icon" aria-hidden="true" focusable="false"> <use xlink:href="#arrow-right-small" /> </svg>
   </div>
 </a>
 </div>        <div class="grid__item grid__item--desktop-up-third gutter-bottom">
           
-<a class="photo-card tile--business" href="/stock-photos/business-ideas/sell-enamel-pins-online">
+<a class="photo-card tile--business" href="/stock-photos/business-ideas/sell-led-sneakers-online">
   <div class="tile__image-wrapper">
     <div class="photo-card__image photo-card__background tile--business__background tile__image">
-      <img sizes="100vw" data-srcset="https://burst.shopifycdn.com/photos/hotdog-pin-man-jean-jacket.jpg?width=373&amp;format=pjpg&amp;exif=0&amp;iptc=0 1x, https://burst.shopifycdn.com/photos/hotdog-pin-man-jean-jacket.jpg?width=746&amp;format=pjpg&amp;exif=0&amp;iptc=0 2x" src="https://burst.shopifycdn.com/photos/hotdog-pin-man-jean-jacket.jpg?width=1000&amp;format=pjpg&amp;exif=0&amp;iptc=0" class="photo-card__photo lazyload" alt="Sell enamel pins online">
+      <img sizes="100vw" data-srcset="https://burst.shopifycdn.com/photos/black-hightop-LED-shoes.jpg?width=373&amp;format=pjpg&amp;exif=0&amp;iptc=0 1x, https://burst.shopifycdn.com/photos/black-hightop-LED-shoes.jpg?width=746&amp;format=pjpg&amp;exif=0&amp;iptc=0 2x" src="https://burst.shopifycdn.com/photos/black-hightop-LED-shoes.jpg?width=1000&amp;format=pjpg&amp;exif=0&amp;iptc=0" class="photo-card__photo lazyload" alt="Sell LED sneakers online">
     </div>
   </div>
 
   <div class="tile__banner">
-    <h3 class="tile--business__heading gutter-bottom--reset">Sell enamel pins online</h3>
+    <h3 class="tile--business__heading gutter-bottom--reset">Sell LED sneakers online</h3>
 
     <svg class="icon icon--size-small tile__icon" aria-hidden="true" focusable="false"> <use xlink:href="#arrow-right-small" /> </svg>
   </div>
 </a>
 </div>        <div class="grid__item grid__item--desktop-up-third gutter-bottom">
           
-<a class="photo-card tile--business" href="/stock-photos/business-ideas/sell-yoga-products-online">
+<a class="photo-card tile--business" href="/stock-photos/business-ideas/sell-lip-balm-online">
   <div class="tile__image-wrapper">
     <div class="photo-card__image photo-card__background tile--business__background tile__image">
-      <img sizes="100vw" data-srcset="https://burst.shopifycdn.com/photos/crescent-moon-pose-side-stretch.jpg?width=373&amp;format=pjpg&amp;exif=0&amp;iptc=0 1x, https://burst.shopifycdn.com/photos/crescent-moon-pose-side-stretch.jpg?width=746&amp;format=pjpg&amp;exif=0&amp;iptc=0 2x" src="https://burst.shopifycdn.com/photos/crescent-moon-pose-side-stretch.jpg?width=1000&amp;format=pjpg&amp;exif=0&amp;iptc=0" class="photo-card__photo lazyload" alt="Sell yoga products online">
+      <img sizes="100vw" data-srcset="https://burst.shopifycdn.com/photos/applying-lip-balm.jpg?width=373&amp;format=pjpg&amp;exif=0&amp;iptc=0 1x, https://burst.shopifycdn.com/photos/applying-lip-balm.jpg?width=746&amp;format=pjpg&amp;exif=0&amp;iptc=0 2x" src="https://burst.shopifycdn.com/photos/applying-lip-balm.jpg?width=1000&amp;format=pjpg&amp;exif=0&amp;iptc=0" class="photo-card__photo lazyload" alt="Sell lip balm online">
     </div>
   </div>
 
   <div class="tile__banner">
-    <h3 class="tile--business__heading gutter-bottom--reset">Sell yoga products online</h3>
+    <h3 class="tile--business__heading gutter-bottom--reset">Sell lip balm online</h3>
 
     <svg class="icon icon--size-small tile__icon" aria-hidden="true" focusable="false"> <use xlink:href="#arrow-right-small" /> </svg>
   </div>
@@ -1434,7 +1434,7 @@ compelling photograph, please <a href="/submit-photos" target="_blank" class="bo
         <p class="text-body contextual-modal__kicker">Your photo is downloading now…</p>
         <h2 class="contextual-modal__heading">Get first access to free photos and other Burst content. Unsubscribe anytime.</h2>
 
-          <div class="subscribe subscribe--inline js-subscribe-with-tracker "><div class="subscribe__content-wrapper"><div class="subscribe__content"><form data-mailing-list="email_update" class="marketing-form marketing-form--inline  subscribe__form" novalidate="novalidate" action="https://marketing.preferences.shopify.com/public/subscriptions/8048ea8c-f1ff-4f65-a3f3-72a8fcf2585d.json" accept-charset="UTF-8" method="post"><div class="marketing-input-wrapper marketing-input-button-pair"><div class="marketing-input-button-pair__field-wrapper"><label class="marketing-label marketing-label--in-field marketing-label--floating marketing-input-button-pair__label" for="SubscribeEmail-154c">Email address</label><input autocomplete="email" placeholder="Your email address" aria-describedby="MessageId_bfda" name="email" id="SubscribeEmail-154c" class="marketing-input-button-pair__input marketing-input marketing-input--floating  subscribe__email" type="email" /><button class="marketing-button marketing-form__button marketing-input-button-pair__button  subscribe__submit" name="button" type="submit">Submit</button></div></div><span class="marketing-form__messages" id="MessageId_bfda"></span>
+          <div class="subscribe subscribe--inline js-subscribe-with-tracker "><div class="subscribe__content-wrapper"><div class="subscribe__content"><form data-mailing-list="email_update" class="marketing-form marketing-form--inline  subscribe__form" novalidate="novalidate" action="https://marketing.preferences.shopify.com/public/subscriptions/8048ea8c-f1ff-4f65-a3f3-72a8fcf2585d.json" accept-charset="UTF-8" method="post"><div class="marketing-input-wrapper marketing-input-button-pair"><div class="marketing-input-button-pair__field-wrapper"><label class="marketing-label marketing-label--in-field marketing-label--floating marketing-input-button-pair__label" for="SubscribeEmail-64c7">Email address</label><input autocomplete="email" placeholder="Your email address" aria-describedby="MessageId_c3db" name="email" id="SubscribeEmail-64c7" class="marketing-input-button-pair__input marketing-input marketing-input--floating  subscribe__email" type="email" /><button class="marketing-button marketing-form__button marketing-input-button-pair__button  subscribe__submit" name="button" type="submit">Submit</button></div></div><span class="marketing-form__messages" id="MessageId_c3db"></span>
       <input type="hidden" name="update_optin" value="true" autocomplete="off" />
     
     <input type="hidden" name="signup_page" class="js-subscribe--signup-page" autocomplete="off" />
@@ -1457,8 +1457,8 @@ compelling photograph, please <a href="/submit-photos" target="_blank" class="bo
   <div class="membership-waitlist-modal__content-container">
     <h2 class="membership-waitlist-modal__heading"></h2>
 
-    <div class="subscribe subscribe--inline js-subscribe-with-tracker gutter-bottom "><div class="subscribe__content-wrapper"><div class="subscribe__content"><form data-mailing-list="email_update" class="marketing-form marketing-form--inline js-membership-waitlist-modal__subscribe-form  subscribe__form" novalidate="novalidate" action="https://marketing.preferences.shopify.com/public/subscriptions/8048ea8c-f1ff-4f65-a3f3-72a8fcf2585d.json" accept-charset="UTF-8" method="post"><div class="marketing-input-wrapper marketing-input-button-pair"><div class="marketing-input-button-pair__field-wrapper"><label class="marketing-label marketing-label--in-field marketing-label--floating marketing-input-button-pair__label" for="SubscribeEmail-84c3">Email address</label><input autocomplete="email" placeholder="Your email address" aria-describedby="MessageId_ea20" name="email" id="SubscribeEmail-84c3" class="marketing-input-button-pair__input marketing-input marketing-input--floating  subscribe__email" type="email" /><button class="marketing-button marketing-form__button marketing-input-button-pair__button  subscribe__submit" name="button" type="submit">Download</button></div></div><span class="marketing-form__messages" id="MessageId_ea20"></span>
-      <input type="checkbox" name="update_optin" id="update-optin-aa818ce961" value="true" class="marketing-checkbox " checked="checked" /><label class="marketing-checkbox-label" for="update-optin-aa818ce961"><svg class="icon marketing-checkbox-label__icon" aria-hidden="true" focusable="false"> <use xlink:href="#modules-checked" /> </svg>Get first access to free photos and other Burst content. Unsubscribe anytime.</label>
+    <div class="subscribe subscribe--inline js-subscribe-with-tracker gutter-bottom "><div class="subscribe__content-wrapper"><div class="subscribe__content"><form data-mailing-list="email_update" class="marketing-form marketing-form--inline js-membership-waitlist-modal__subscribe-form  subscribe__form" novalidate="novalidate" action="https://marketing.preferences.shopify.com/public/subscriptions/8048ea8c-f1ff-4f65-a3f3-72a8fcf2585d.json" accept-charset="UTF-8" method="post"><div class="marketing-input-wrapper marketing-input-button-pair"><div class="marketing-input-button-pair__field-wrapper"><label class="marketing-label marketing-label--in-field marketing-label--floating marketing-input-button-pair__label" for="SubscribeEmail-c4bf">Email address</label><input autocomplete="email" placeholder="Your email address" aria-describedby="MessageId_d110" name="email" id="SubscribeEmail-c4bf" class="marketing-input-button-pair__input marketing-input marketing-input--floating  subscribe__email" type="email" /><button class="marketing-button marketing-form__button marketing-input-button-pair__button  subscribe__submit" name="button" type="submit">Download</button></div></div><span class="marketing-form__messages" id="MessageId_d110"></span>
+      <input type="checkbox" name="update_optin" id="update-optin-e2aa844945" value="true" class="marketing-checkbox " checked="checked" /><label class="marketing-checkbox-label" for="update-optin-e2aa844945"><svg class="icon marketing-checkbox-label__icon" aria-hidden="true" focusable="false"> <use xlink:href="#modules-checked" /> </svg>Get first access to free photos and other Burst content. Unsubscribe anytime.</label>
     
     <input type="hidden" name="signup_page" class="js-subscribe--signup-page" autocomplete="off" />
     <input type="hidden" name="signup_url" class="js-subscribe--signup-url" autocomplete="off" />
@@ -1587,16 +1587,16 @@ compelling photograph, please <a href="/submit-photos" target="_blank" class="bo
         <div class="powered-by-shopify">
   <a href="https://www.shopify.com" class="powered-by-shopify__link">
     <span class="powered-by-shopify__label color-white">powered by</span>
-    <svg class="icon icon--fill-white powered-by-shopify__logo" aria-labelledby="icon-logos-shopify-mono-51-title" role="img"><title id="icon-logos-shopify-mono-51-title">Shopify</title> <use xlink:href="#logos-shopify-mono" /> </svg>
+    <svg class="icon icon--fill-white powered-by-shopify__logo" aria-labelledby="icon-logos-shopify-mono-24-title" role="img"><title id="icon-logos-shopify-mono-24-title">Shopify</title> <use xlink:href="#logos-shopify-mono" /> </svg>
   </a>
 </div>
 
 </div>      <div class="grid__item grid__item--mobile-up-full grid__item--tablet-up-2 grid__item--mobile-up-align-center grid__item--tablet-up-align-left">
         <div class="grid grid--equal-height grid--vertically-centered social-icons__container">
           <div class="grid__item grid__item--mobile-up-full social-icons__wrapper">
-            <a class="footer-social__icon " target="_blank" rel="me nofollow noopener" aria-describedby="NewWindowExternalSite" data-ga-event="Social" data-ga-action="facebook" data-ga-label="Footer" href="https://www.facebook.com/burstshopify/"><svg class="icon" aria-labelledby="icon-modules-social-facebook-52-title" role="img"><title id="icon-modules-social-facebook-52-title">Facebook</title> <use xlink:href="#modules-social-facebook" /> </svg></a>
-            <a class="footer-social__icon " target="_blank" rel="me nofollow noopener" aria-describedby="NewWindowExternalSite" data-ga-event="Social" data-ga-action="twitter" data-ga-label="Footer" href="https://www.twitter.com/burstphotos_/"><svg class="icon" aria-labelledby="icon-modules-social-twitter-53-title" role="img"><title id="icon-modules-social-twitter-53-title">Twitter</title> <use xlink:href="#modules-social-twitter" /> </svg></a>
-            <a class="footer-social__icon " target="_blank" rel="me nofollow noopener" aria-describedby="NewWindowExternalSite" data-ga-event="Social" data-ga-action="instagram" data-ga-label="Footer" href="https://www.instagram.com/burstphotos"><svg class="icon" aria-labelledby="icon-modules-social-instagram-54-title" role="img"><title id="icon-modules-social-instagram-54-title">Instagram</title> <use xlink:href="#modules-social-instagram" /> </svg></a>
+            <a class="footer-social__icon " target="_blank" rel="me nofollow noopener" aria-describedby="NewWindowExternalSite" data-ga-event="Social" data-ga-action="facebook" data-ga-label="Footer" href="https://www.facebook.com/burstshopify/"><svg class="icon" aria-labelledby="icon-modules-social-facebook-25-title" role="img"><title id="icon-modules-social-facebook-25-title">Facebook</title> <use xlink:href="#modules-social-facebook" /> </svg></a>
+            <a class="footer-social__icon " target="_blank" rel="me nofollow noopener" aria-describedby="NewWindowExternalSite" data-ga-event="Social" data-ga-action="twitter" data-ga-label="Footer" href="https://www.twitter.com/burstphotos_/"><svg class="icon" aria-labelledby="icon-modules-social-twitter-26-title" role="img"><title id="icon-modules-social-twitter-26-title">Twitter</title> <use xlink:href="#modules-social-twitter" /> </svg></a>
+            <a class="footer-social__icon " target="_blank" rel="me nofollow noopener" aria-describedby="NewWindowExternalSite" data-ga-event="Social" data-ga-action="instagram" data-ga-label="Footer" href="https://www.instagram.com/burstphotos"><svg class="icon" aria-labelledby="icon-modules-social-instagram-27-title" role="img"><title id="icon-modules-social-instagram-27-title">Instagram</title> <use xlink:href="#modules-social-instagram" /> </svg></a>
 </div></div></div>      <div class="grid__item grid__item--mobile-up-full grid__item--tablet-up-2 grid__item--mobile-up-align-center grid__item--tablet-up-align-left">
         <div class="grid grid--vertically-centered social-icons-container">
           <div class="grid__item grid__item--mobile-up-full footer-country-selector">
